@@ -20,3 +20,8 @@ Stripe/PayPal API: To integrate payment functionality into the application.
 * Node.js and npm (Node Package Manager) installed on your system.
 * MongoDB installed and running locally or access to a remote MongoDB database.
 * API keys from Stripe/PayPal or any other payment gateway you choose to integrate.
+# Contribution
+* Contributions are welcome! If you'd like to contribute to the project, feel free to submit pull requests or open issues.
+
+# License
+* This project is licensed under the MIT License. You can find the details in the LICENSE file.

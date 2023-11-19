@@ -5,8 +5,7 @@ const authRoute = require("./modelRoute/auth");
 const productRoute = require("./modelRoute/productRoute");
 const cartRoute = require("./modelRoute/cartRoute");
 const orderRoute = require("./modelRoute/orderRoute");
-// const stripeRoute = require("./modelRoute/stripeRoute");
-// const cors = require("cors");
+
 const app = express();
 // const { connectdb } = require("./db");
 const connectdb = require("./db");

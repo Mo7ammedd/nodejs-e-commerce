@@ -7,8 +7,7 @@ const cartRoute = require("./modelRoute/cartRoute");
 const orderRoute = require("./modelRoute/orderRoute");
 
 const app = express();
-// const { connectdb } = require("./db");
-const connectdb = require("./db");
+// const { connectdb } = require("./db");const connectdb = require("./db");
 const dotenv = require("dotenv").config();
 const port = 3000;
 // dotenv.config();
